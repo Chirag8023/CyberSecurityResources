@@ -20,3 +20,10 @@ Just some of my favourite resources for Cyber Security and Bug Bounty.
 - [Hacking: The Art of Exploitation](https://archive.org/details/hackingtheartofexploitation_202003) ** : It's not a free book but some places you will find PDFs or read online. It's a rare gem, It teaches hacking philosophy and how to actually think like hacker and exploit. 
 
 
+## Good Mentors
+
+- [John Hammond](https://www.youtube.com/@_JohnHammond)
+
+- [NahamSec (Ben Sadeghipour)](https://www.youtube.com/@NahamSec)
+
+- [Defronix Academy (Nitesh Singh)](https://www.youtube.com/playlist?list=PLOJR6EhNalnu7hgxu7QhA9GrF9i23JX9A)
