@@ -29,6 +29,10 @@ Just some of my favourite resources for Cyber Security and Bug Bounty.
 
 - [John Hammond](https://www.youtube.com/@_JohnHammond)
 
-- [NahamSec (Ben Sadeghipour)](https://www.youtube.com/@NahamSec)
+- [Ben Sadeghipour (NahamSec)](https://www.youtube.com/@NahamSec)
 
-- [Defronix Academy (Nitesh Singh)](https://www.youtube.com/playlist?list=PLOJR6EhNalnu7hgxu7QhA9GrF9i23JX9A)
+- [Nitesh Singh (Defronix Academy)](https://www.youtube.com/playlist?list=PLOJR6EhNalnu7hgxu7QhA9GrF9i23JX9A)
+
+# Miscellaneous
+
+- [Monkeytype](https://monkeytype.com) * : Good typing speed can be useful in cyber security and for increased productivity, Monkeytype is a minimalistic typing platform, one of my favourite.
