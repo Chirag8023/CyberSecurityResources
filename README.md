@@ -19,6 +19,11 @@ Just some of my favourite resources for Cyber Security and Bug Bounty.
 
 - [Hacking: The Art of Exploitation](https://archive.org/details/hackingtheartofexploitation_202003) ** : It's not a free book but some places you will find PDFs or read online. It's a rare gem, It teaches hacking philosophy and how to actually think like hacker and exploit. 
 
+## Useful Repositories
+
+- [10000-h1-disclosed-reports](https://github.com/shreyaschavhan/10000-h1-disclosed-reports) * : This repo have links to 10,000 hackerone reports, reading these reports is really useful to progress in the bug bounty journey. It's suggested to read at least 5000 reports.
+
+- [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) * : A list of useful payloads and bypasses for Web Application Security. Again super useful in the bug bounty process.
 
 ## Good Mentors
 
